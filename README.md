@@ -31,3 +31,6 @@ If you want to contact me you can reach me at youssefshehab12.ys@gmail.com
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project uses the following license: [MIT](https://choosealicense.com/licenses/mit/)
