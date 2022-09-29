@@ -28,3 +28,6 @@ You can download the csv file, which contains foul data from the 2021/2022 seaso
 
 # Contact
 If you want to contact me you can reach me at youssefshehab12.ys@gmail.com
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
