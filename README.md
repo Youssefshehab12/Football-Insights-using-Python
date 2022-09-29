@@ -25,3 +25,6 @@ we'll go beyond the commonly used top-5 European leagues and explore Danish Supe
 
 You can download the csv file, which contains foul data from the 2021/2022 season, from the following link:
 [Data](https://www.sonofacorner.com/content/files/2022/06/superligaen_fouls_tutorial_06172022.csv)
+
+# Contact
+If you want to contact me you can reach me at youssefshehab12.ys@gmail.com
