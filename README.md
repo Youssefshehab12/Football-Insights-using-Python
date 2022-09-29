@@ -1,4 +1,4 @@
-# Football-Insights-using-Python
+# Football-Insights-Bar Charts using-Python
 
 Created an Analysis on which Danish SuperLiga teams committed more fouls than they received in season 2021/2022 using Matplotlib, Pandas, and Numpy.
 
