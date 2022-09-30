@@ -1,4 +1,4 @@
-# Football Insights Bar Charts using-Python
+# Football Insights using-Python
 
 This repository allows Data Analysts who are passionate about Football (it's okay if you are not) to visualize Football teams stats using Matplotlib, Pandas, and Numpy.
 
