@@ -2,6 +2,8 @@
 
 This repository allows Data Analysts who are passionate about Football (it's okay if you are not) to visualize Football teams stats using Matplotlib, Pandas, and Numpy.
 
+Before we dive into the Analysis I wanna give credit to [sonofacorner](https://github.com/sonofacorner) for his amazing tutorials.
+
 
 # Analysis
 
