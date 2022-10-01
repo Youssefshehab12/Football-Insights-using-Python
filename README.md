@@ -9,20 +9,25 @@ Before we dive into the Analysis I wanna give credit to [sonofacorner](https://g
 
 **1) Which Danish Superliga teams committed more fouls than they received in season 2021/2022 ?**
 
--Total Fouls Committed by each team.
+- Total Fouls Committed by each team.
 
--percentage of Fouls Committed in Home games compared to away games for each team.
+- percentage of Fouls Committed in Home games compared to away games for each team.
 
--The amount of Fouls committed compared to the amount of Fouls received for each team.
+- The amount of Fouls committed compared to the amount of Fouls received for each team.
 
--The ratio of Fouls conceded to Fouls received for each team using their logos.
+- The ratio of Fouls conceded to Fouls received for each team using their logos.
 
 ![Danish teams analysis](https://user-images.githubusercontent.com/64536908/193364084-8ac5f166-a2ac-4aa1-b1b3-8676e4e0852f.png)
 
 
 **2) Arsenal squad playing time season 2021/2022**
 
-![Arsenal squad playing time analysis](https://user-images.githubusercontent.com/64536908/193364615-d1f60dac-a425-446d-ab5f-0070b58feb2e.png)
+- Tables in matplotlib.
+- Arsenal Squad players season 2021/2022 minutes played percentage.
+- How many times have Arsenal players started when being in Squad.
+
+![download](https://user-images.githubusercontent.com/64536908/193376515-82dfcd49-d7c9-4a90-857f-9842598719a6.png)
+
 
 
 
