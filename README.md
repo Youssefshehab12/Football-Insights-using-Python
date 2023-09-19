@@ -57,9 +57,10 @@ You can download the csv file, which contains foul data from the 2021/2022 seaso
 
 ![image](https://user-images.githubusercontent.com/64536908/193365388-ebf73b8b-3356-4ab1-9f1f-5d66c63249f1.png)
 
-3) To access Statsbomb Data check thus link:
+3) To access Statsbomb Data check this link:
    [Statsbomb Open Data](https://github.com/statsbomb/open-data)
-
+   
+![image]([https://user-images.githubusercontent.com/64536908/193365388-ebf73b8b-3356-4ab1-9f1f-5d66c63249f1.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fstatsbomb-the-most-advanced-analytics-provider-in-football-announces-the-full-acquisition-of-arqam-to-provide-more-than-double-the-data-of-any-other-provider-300843691.html&psig=AOvVaw3j1qVfeittNkP4s95LSTa-&ust=1695217663138000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiasofotoEDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fstatsbomb-the-most-advanced-analytics-provider-in-football-announces-the-full-acquisition-of-arqam-to-provide-more-than-double-the-data-of-any-other-provider-300843691.html&psig=AOvVaw3j1qVfeittNkP4s95LSTa-&ust=1695217663138000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiasofotoEDFQAAAAAdAAAAABAE)
 
 # Contact
 If you want to contact me you can reach me at youssefshehab12.ys@gmail.com
