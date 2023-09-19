@@ -28,6 +28,14 @@ Before we dive into the Analysis I want to give credit to [sonofacorner](https:/
 
 ![download](https://user-images.githubusercontent.com/64536908/193376515-82dfcd49-d7c9-4a90-857f-9842598719a6.png)
 
+**3) Enzo Fernandez Passing Report in World Cup 2022**
+
+**Data Source:** StatsBomb.
+- Player report specific to Centre Midfielders, including development of a flexible/robust mechanism to compare the report subject to similar players
+
+
+![download (1)](https://github.com/Youssefshehab12/Football-Insights-using-Python/assets/64536908/6ed64fd6-fcef-400d-88da-e4c33ba7b4ef)
+
 
 
 
