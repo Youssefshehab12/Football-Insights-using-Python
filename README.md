@@ -57,6 +57,9 @@ You can download the csv file, which contains foul data from the 2021/2022 seaso
 
 ![image](https://user-images.githubusercontent.com/64536908/193365388-ebf73b8b-3356-4ab1-9f1f-5d66c63249f1.png)
 
+3) To access Statsbomb Data check thus link:
+   [Statsbomb Open Data](https://github.com/statsbomb/open-data)
+
 
 # Contact
 If you want to contact me you can reach me at youssefshehab12.ys@gmail.com
